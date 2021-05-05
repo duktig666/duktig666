@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=shiwei-Ren&show_icons=true&theme=vue" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=shiwei-Ren&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
 
 # Hi,I'm RenShiWei! 👋
 后端开发工程师
