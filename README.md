@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=shiwei-Ren&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
+
 
 # Hi,I'm RenShiWei! 👋
 后端开发工程师
 
-## ヾ(@^▽^@)ノ
+<img src="https://github-readme-stats.vercel.app/api?username=shiwei-Ren&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
 💬 Ask me about Java,Back-End...
 
 ## Follow Me
