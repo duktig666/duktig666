@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" width="300" height="300" src="https://gitee.com/koala010/typora/raw/master/img/QQ情侣头像.jpg" style="margin: 5px; margin-bottom: 20px;" />
+<img src="https://gitee.com/koala010/typora/raw/master/img/QQ情侣头像.jpg" align="right" width="300" height="300"  style="margin: 5px;" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=azl397985856&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=azl397985856&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px;" />
 
 # Hi,I'm RenShiWei! 👋
 后端开发工程师
@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 <img src="https://github-profile-trophy.vercel.app/?username=shiwei-Ren&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
 
 <a href="https://github.com/shiwei-Ren">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neel2904&theme=radical&hide=glsl,python" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiwei-Ren&theme=radical&hide=glsl,python" />
 </a>
