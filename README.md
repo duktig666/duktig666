@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 <img src="https://gitee.com/koala010/typora/raw/master/img/QQ情侣头像.jpg" align="right" width="300" height="300"  style="margin: 5px;margin-bottom: 20px;" />
 
-
-
 # Hi,I'm RenShiWei! 👋
 后端开发工程师
 
@@ -28,7 +26,7 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/gmail-1487660836@qq.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:1487660836@qq.com)](mailto:1487660836@qq.com)
 
 ## Interesting stats
-<img src="https://github-readme-stats.vercel.app/api?username=azl397985856&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px;margin-bottom: 20px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=azl397985856&show_icons=true" alt="logo" style="margin: 5px;margin-bottom: 20px;" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=shiwei-Ren&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
 
