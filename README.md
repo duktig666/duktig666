@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=shiwei-Ren&show_icons=true&theme=vue" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=shiwei-Ren&show_icons=true&theme=vue-dark" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
 # Hi,I'm RenShiWei! 👋
 后端开发工程师
@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 
 ## Languages
 <a href="https://github.com/shiwei-Ren">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiwei-Ren&theme=vue" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiwei-Ren&theme=vue-dark" />
 </a>
