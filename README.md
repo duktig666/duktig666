@@ -18,13 +18,8 @@ Here are some ideas to get you started:
 # Hi,I'm RenShiWei! 👋
 后端开发工程师
 
-<br>
-
 ## ヾ(@^▽^@)ノ
-
 💬 Ask me about Java,Back-End...
-
-<br>
 
 ## Follow Me
 [![Github](https://img.shields.io/github/followers/shiwei-Ren?label=Github&style=social)](https://github.com/shiwei-Ren)
@@ -33,12 +28,8 @@ Here are some ideas to get you started:
 [![简书](https://img.shields.io/badge/-简书-c14438?style=flat-square&logo=简&logoColor=white)](https://www.jianshu.com/u/421632ec0dc8)
 [![Gmail Badge](https://img.shields.io/badge/gmail-1487660836@qq.com-Green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:1487660836@qq.com)](mailto:1487660836@qq.com)
 
-<br>
-
 ## GitHub Infos
 <img src="https://github-profile-trophy.vercel.app/?username=shiwei-Ren&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto;" />
-
-<br>
 
 ## Languages
 <a href="https://github.com/shiwei-Ren">
