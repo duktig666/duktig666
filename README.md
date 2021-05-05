@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ## Follow Me
+![访问个人主页数量](https://komarev.com/ghpvc/?username=shiwei-Ren&color=green)
 [![Github](https://img.shields.io/github/followers/shiwei-Ren?label=Github&style=social)](https://github.com/shiwei-Ren)
 [![Gitee](https://img.shields.io/badge/-码云-EA4335?style=flat-square&logo=Gitee&logoColor=white)](https://gitee.com/koala010)
 [![CSDN](https://img.shields.io/badge/-CSDN-c14438?style=flat-square&logo=C&logoColor=white)](https://blog.csdn.net/qq_42937522?spm=1000.2115.3001.5343)
