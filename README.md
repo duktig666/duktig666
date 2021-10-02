@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
   - 写技术和生活类文章
   - “骨灰级小说阅读家”
-  - 喜欢玩游戏，尤其钟爱LOL
-  - 喜欢看游戏直播（不累，还很爽快）
+  - 玩游戏，尤其钟爱LOL
+  - 游戏直播（不累，还很爽快）
 
 ## Follow Me
 ![访问个人主页数量](https://komarev.com/ghpvc/?username=duktig666&color=green)
