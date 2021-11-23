@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=duktig666&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
 
 - 🔭 I’m currently working on **HeNan**.
-- 🌱 I’m currently learning 【分布式】【微服务】【大数据】.
-- 💬 Ask me about Java后端相关技术栈.
+- 🌱 I’m currently learning **distributed** , **micro service** and **big data**.
+- 💬 Ask me about Java technology.
 - ⚡ Fun fact: 
-  - 写技术和生活类文章
-  - “骨灰级小说阅读家”
-  - 玩游戏，尤其钟爱LOL手游
-  - 看游戏直播
+  - Write technical and life articles.
+  - “Hardcore fiction reader”
+  - Play games, especially LOL mobile games.
+  - Watch the game live
 
 ## Follow Me
 ![访问个人主页数量](https://komarev.com/ghpvc/?username=duktig666&color=green)
