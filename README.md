@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about Java technology.
 - ⚡ Fun fact: 
   - Write technical and life articles.
-  - “Hardcore fiction reader”
+  - “Hardcore fiction reader”.
   - Play games, especially LOL mobile games.
-  - Watch the game live
+  - Watch the game live.
 
 ## Follow Me
 ![访问个人主页数量](https://komarev.com/ghpvc/?username=duktig666&color=green)
