@@ -21,14 +21,13 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=duktig666&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
 
-- 🔭 I’m currently working on **HeNan**.
-- 🌱 I’m currently learning **distributed** , **micro service** and **big data**.
-- 💬 Ask me about Java technology.
+- 🔭 I’m currently working on **Beijing**.
+- 🌱 I’m currently learning **BlockChain**.
+- 💬 Ask me about Java or Golang technology.
 - ⚡ Fun fact: 
   - Write technical and life articles.
-  - “Hardcore fiction reader”.
-  - Play games, especially LOL mobile games.
-  - Watch the game live.
+  - "Hardcore fiction reader".
+  - Watch science and technology weekly.
 
 ## Follow Me
 ![访问个人主页数量](https://komarev.com/ghpvc/?username=duktig666&color=green)
