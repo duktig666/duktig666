@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=duktig666&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
 
 - 🔭 I’m currently working on **Beijing**.
-- 🌱 I’m currently learning **BlockChain**.
+- 🌱 I’m currently learning **BlockChain** and **WEB3**.
 - 💬 Ask me about Java or Golang technology.
 - ⚡ Fun fact: 
   - Write technical and life articles.
