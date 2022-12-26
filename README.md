@@ -21,9 +21,9 @@ Rear , Web3 and Blockchain Development Engineers
 
 <img src="https://github-readme-stats.vercel.app/api?username=duktig666&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
 
-- 🔭 I’m currently working on **Beijing**.
+- 🔭 My position is in **Beijing**, working in **ChainUp**.
 - 🌱 I’m currently learning **BlockChain** and **WEB3**.
-- 💬 Ask me about Java or Golang technology.
+- 💬 Ask me about **Java,Golang,blockchain,web3** technology.
 - ⚡ Fun fact: 
   - Write technical and life articles.
   - "Hardcore fiction reader".
