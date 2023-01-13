@@ -46,6 +46,82 @@ Rear , Web3 and Blockchain Development Engineers
 </a>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 28 Contributions in the Year 2023
+ > 
+> 📦 409.0 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 33 Public Repositories 
+ > 
+> 🔑 1 Private Repository 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    98 commits     █████░░░░░░░░░░░░░░░░░░░░   21.12% 
+🌆 Daytime    183 commits    █████████░░░░░░░░░░░░░░░░   39.44% 
+🌃 Evening    180 commits    █████████░░░░░░░░░░░░░░░░   38.79% 
+🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.65%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       48 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
+Tuesday      68 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.66% 
+Wednesday    92 commits     █████░░░░░░░░░░░░░░░░░░░░   19.83% 
+Thursday     82 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.67% 
+Friday       65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.01% 
+Saturday     87 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
+Sunday       22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.74%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     12 repos            ██████████░░░░░░░░░░░░░░░   42.86% 
+Go                       6 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
+Vue                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.71% 
+Shell                    3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.71% 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/duktig666/duktig666/main/charts/bar_graph.png) 
+
+
+ Last Updated on 13/01/2023 03:34:27 UTC
 <!--END_SECTION:waka-->
 
 [![Anser's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=duktig666&layout=compact&custom_title=Wakatime%20Stats%20(this%20week))](https://wakatime.com/@duktig666)
