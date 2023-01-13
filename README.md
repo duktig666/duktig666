@@ -126,4 +126,4 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 [![Anser's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=duktig666&layout=compact&custom_title=Wakatime%20Stats%20(this%20week))](https://wakatime.com/@duktig666)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=duktig6660&theme=vue)](https://github.com/duktig666)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=duktig666&theme=vue)](https://github.com/duktig666)
