@@ -45,6 +45,10 @@ Rear , Web3 and Blockchain Development Engineers
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=duktig666&layout=compact&theme=vue" />
 </a>
 
+[![Anser's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=duktig666&layout=compact&custom_title=Wakatime%20Stats%20(this%20week))](https://wakatime.com/@duktig666)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=duktig666&theme=vue)](https://github.com/duktig666)
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
@@ -124,6 +128,3 @@ JavaScript               2 repos             █░░░░░░░░░░�
  Last Updated on 13/01/2023 03:34:27 UTC
 <!--END_SECTION:waka-->
 
-[![Anser's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=duktig666&layout=compact&custom_title=Wakatime%20Stats%20(this%20week))](https://wakatime.com/@duktig666)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=duktig666&theme=vue)](https://github.com/duktig666)
