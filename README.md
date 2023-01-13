@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # Hi,I'm RenShiWei! 👋
 Rear , Web3 and Blockchain Development Engineers
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=duktig666&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=duktig666&show_icons=true&count_private=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
 
 - 🔭 My position is in **Beijing**, working in **ChainUp**.
 - 🌱 I’m currently learning **BlockChain** and **Web3**.
@@ -41,7 +41,10 @@ Rear , Web3 and Blockchain Development Engineers
 ## GitHub Infos
 <img src="https://github-profile-trophy.vercel.app/?username=duktig666&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto;" />
 
-## Languages
 <a href="https://github.com/duktig666">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=duktig666&theme=vue" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=duktig666&layout=compact&theme=vue" />
 </a>
+
+[![Anser's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=duktig666&layout=compact&custom_title=Wakatime%20Stats%20(this%20week))](https://wakatime.com/@duktig666)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=duktig6660&theme=vue)](https://github.com/duktig666)
