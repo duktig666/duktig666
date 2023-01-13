@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # Hi,I'm RenShiWei! 👋
 Rear , Web3 and Blockchain Development Engineers
 
-<img src="https://github-readme-stats.vercel.app/api?username=duktig666&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=duktig666&show_icons=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
 
 - 🔭 My position is in **Beijing**, working in **ChainUp**.
 - 🌱 I’m currently learning **BlockChain** and **Web3**.
@@ -43,5 +43,5 @@ Rear , Web3 and Blockchain Development Engineers
 
 ## Languages
 <a href="https://github.com/duktig666">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duktig666&theme=vue" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=duktig666&theme=vue" />
 </a>
