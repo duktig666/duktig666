@@ -50,13 +50,9 @@ Rear , Web3 and Blockchain Development Engineers
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=duktig666&theme=vue)](https://github.com/duktig666)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
-
 **🐱 My GitHub Data** 
 
-> 🏆 28 Contributions in the Year 2023
+> 🏆 31 Contributions in the Year 2023
  > 
 > 📦 409.0 kB Used in GitHub's Storage 
  > 
@@ -66,44 +62,13 @@ Rear , Web3 and Blockchain Development Engineers
  > 
 > 🔑 1 Private Repository 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    98 commits     █████░░░░░░░░░░░░░░░░░░░░   21.12% 
-🌆 Daytime    183 commits    █████████░░░░░░░░░░░░░░░░   39.44% 
-🌃 Evening    180 commits    █████████░░░░░░░░░░░░░░░░   38.79% 
-🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.65%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       48 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
-Tuesday      68 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.66% 
-Wednesday    92 commits     █████░░░░░░░░░░░░░░░░░░░░   19.83% 
-Thursday     82 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.67% 
-Friday       65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.01% 
-Saturday     87 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
-Sunday       22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.74%
-
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Shanghai
-
 💬 Programming Languages: 
 No Activity Tracked This Week
 
 🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
 No Activity Tracked This Week
 
 ```
@@ -125,6 +90,6 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/duktig666/duktig666/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/01/2023 03:34:27 UTC
+ Last Updated on 13/01/2023 04:09:28 UTC
 <!--END_SECTION:waka-->
 
