@@ -66,10 +66,15 @@ Rear , Web3 and Blockchain Development Engineers
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 hrs 31 mins       ████████████████████░░░░░   81.52% 
+JSON                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.38% 
+Solidity                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.3% 
+tsconfig                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.77% 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.06%
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 2 hrs 52 mins       ███████████████████████░░   92.73% 
+VS Code                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.27%
 
 ```
 
@@ -90,6 +95,6 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/duktig666/duktig666/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/01/2023 18:42:02 UTC
+ Last Updated on 14/01/2023 18:38:56 UTC
 <!--END_SECTION:waka-->
 
