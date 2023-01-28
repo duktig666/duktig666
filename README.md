@@ -52,7 +52,7 @@ Rear , Web3 and Blockchain Development Engineers
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 53 Contributions in the Year 2023
+> 🏆 57 Contributions in the Year 2023
  > 
 > 📦 409.1 kB Used in GitHub's Storage 
  > 
@@ -66,10 +66,10 @@ Rear , Web3 and Blockchain Development Engineers
 
 ```text
 💬 Programming Languages: 
-Solidity file            1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -90,6 +90,6 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/duktig666/duktig666/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/01/2023 18:41:09 UTC
+ Last Updated on 28/01/2023 18:38:51 UTC
 <!--END_SECTION:waka-->
 
