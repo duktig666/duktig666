@@ -41,13 +41,13 @@ Rear , Web3 and Blockchain Development Engineers
 ## GitHub Infos
 <img src="https://github-profile-trophy.vercel.app/?username=duktig666&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto;" />
 
-<a href="https://github.com/duktig666">
+<!-- <a href="https://github.com/duktig666">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=duktig666&layout=compact&theme=vue" />
 </a>
 
 [![Anser's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=duktig666&layout=compact&custom_title=Wakatime%20Stats%20(this%20week))](https://wakatime.com/@duktig666)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=duktig666&theme=vue)](https://github.com/duktig666)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=duktig666&theme=vue)](https://github.com/duktig666) -->
 
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
