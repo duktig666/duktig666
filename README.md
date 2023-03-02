@@ -49,7 +49,7 @@ Rear , Web3 and Blockchain Development Engineers
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=duktig666&theme=vue)](https://github.com/duktig666) -->
 
-## :bar_chart: [每月编码时间](https://github.com/muety/wakapi)
+## :bar_chart: Monthly coding time
 
 <!--START_SECTION:waka-->
 
