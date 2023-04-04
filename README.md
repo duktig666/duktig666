@@ -54,7 +54,7 @@ Rear , Web3 and Blockchain Development Engineers
 <!--START_SECTION:waka-->
 
 ```text
-Other            41 hrs 31 mins  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜   65.43 %
+Other             44 hrs 28 mins  🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   35.72 %
 ```
 
 <!--END_SECTION:waka-->
