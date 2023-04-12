@@ -15,11 +15,12 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           # 提交消息
-          COMMIT_MESSAGE: Update Wakapi stats
+          #COMMIT_MESSAGE: Update Wakapi stats
           # 图形
           BLOCKS: "⬜🟨🟩"
           # 时间范围
           TIME_RANGE: last_30_days
+          LANG_COUNT: 8
           # 显示时间
-          SHOW_TIME: true
+          #SHOW_TIME: true
           
