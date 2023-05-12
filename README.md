@@ -31,7 +31,7 @@ Rear , Web3 and Blockchain Development Engineers
 
 ## Follow Me
 ![访问个人主页数量](https://komarev.com/ghpvc/?username=duktig666&color=green)
-[![Blog](https://img.shields.io/badge/-个人博客（duktig.cn）-c14438?style=flat-square&logo=B&logoColor=white)](https://duktig.cn/)
+[![Blog](https://img.shields.io/badge/-blog（duktig.cn）-c14438?style=flat-square&logo=B&logoColor=white)](https://duktig.cn/)
 [![Github](https://img.shields.io/github/followers/duktig666?label=Github&style=social)](https://github.com/duktig666)
 [![Gitee](https://img.shields.io/badge/-Gitee-EA4335?style=flat-square&logo=Gitee&logoColor=white)](https://gitee.com/duktig666)
 [![CSDN](https://img.shields.io/badge/-CSDN-c14438?style=flat-square&logo=C&logoColor=white)](https://blog.csdn.net/qq_42937522?spm=1000.2115.3001.5343)
