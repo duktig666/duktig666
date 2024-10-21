@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 
-# Hi,I'm RenShiWei! 👋
+# Hi 👋
 Rear , Web3 and Blockchain Development Engineers
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=duktig666&show_icons=true&count_private=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
